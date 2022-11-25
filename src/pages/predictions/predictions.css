@@ -1,0 +1,15 @@
+.predictions{
+    display: flex;
+}
+
+.currDate{
+    color: grey;
+    padding-top: 0.5rem;
+    padding-bottom: 2rem;
+    font-size: 13px;
+}
+
+.predPage{
+    flex: 4;
+    width: 70%;
+}

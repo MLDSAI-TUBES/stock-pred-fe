@@ -1,0 +1,42 @@
+.date{
+    color: gray;
+    font-size: 13px !important;
+    padding-bottom: 5px;
+}
+
+.ticker{
+    font-size: 25px;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.arrowDec{
+    color: red;
+    font-size: 13px !important;
+}
+
+.arrowInc{
+    color: green;
+    font-size: 13px !important;
+}
+
+.pct{
+    font-size: 13px !important;
+    padding-bottom: 5px;
+}
+
+.price{
+    font-size: 18px;
+    padding-bottom: 5px;
+}
+
+.containerCompany{
+    padding: 20px;
+    background-color: azure;
+    border-radius: 20px;
+    margin: 10px;
+}
+
+.statContainer{
+    width: 18rem
+}
