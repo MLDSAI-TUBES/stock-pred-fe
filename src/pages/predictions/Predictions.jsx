@@ -62,7 +62,7 @@ export default function Predictions() {
   const DataisLoaded = data.DataisLoaded;
   if (!DataisLoaded) return (
       <div className='predPage'>
-          <p> Pleses wait some time.... </p> 
+          <p> Loading.... </p> 
       </div>)
 
   return (
