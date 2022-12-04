@@ -2,7 +2,7 @@
 
 ## Instructions
 ### Backend Setup
-1. Clone **stock-pred-api-rsi-mfi** repository, checkout **20221125_tan_api** branch
+1. Clone **stock-pred-api-rsi-mfi** repository, checkout **main** branch
 2. Change directory to /api: *cd api*
 3. Enter the following command to run the API on local: *python app.py*
 
