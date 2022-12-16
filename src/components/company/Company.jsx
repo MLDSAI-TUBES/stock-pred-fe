@@ -25,12 +25,12 @@ export default function Company({ticker, prediction_date, price, return_pct}) {
                     (return_pct.startsWith('-')) ? (
                         <StatHelpText className='pct'>
                             <StatArrow type='decrease' className='arrowDec'/>
-                            {return_pct}
+                            {return_pct}%
                         </StatHelpText>
                     ) : (
                         <StatHelpText className='pct'>
                             <StatArrow type='increase' className='arrowInc'/>
-                            {return_pct}
+                            {return_pct}%
                         </StatHelpText>
                     )
                 }
